@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>HOLAA</h2>
 
-<!--
-**darioj356/darioj356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biografía
+Soy estudiante de ingeniería de software con un interés en el desarrollo web y la inteligencia artificial.
 
-Here are some ideas to get you started:
+## Proyectos
+- **Proyecto 1**: Una aplicación web para gestionar tareas.
+- **Proyecto 2**: Un chatbot utilizando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses
+- Desarrollo de software
+- Aprendizaje automático
+- Diseño de interfaces
