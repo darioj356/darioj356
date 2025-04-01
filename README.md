@@ -1,4 +1,4 @@
-<h2>HOLAA</h2>
+<h1>BIENVENIDOS A MI GITHUB</h1>
 
 ## Biografía
 Soy estudiante de ingeniería de software con un interés en el desarrollo web y la inteligencia artificial.
